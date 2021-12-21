@@ -10,11 +10,11 @@ Identify the Blockchain network where you want to create your token and select i
 
 We have added Testnet subnets of all networks so that you can experiment with token creation on the Blockchain network of your choice with TokenGo. You can do experiments and tests before doing real token generation on these networks. You can also try TokenGo :)
 
-![Image](https://tokengo.app/uploads/2.png)
+![Image](https://tokengo.app/uploads/3.png)
 
 Now that you have made your selections, you can enter the information of your new token on the token creation page that opens.
 
-![Image](https://tokengo.app/uploads/3.png)
+![Image](https://tokengo.app/uploads/2.png)
 
 Let's examine it in order;
 - "Token Name" : Represents the full name of the token you will create. Your token is known by this name.
