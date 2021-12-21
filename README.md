@@ -45,21 +45,21 @@ When MetaMask is first triggered, it asks for your wallet's permission to access
 
 After the access is granted, if the blockchain network you will create your token is not attached to your MetaMask extension, it will automatically ask for your permission to add it.
 
-![Image](https://tokengo.app/uploads/9.png)
+![Image](https://tokengo.app/uploads/10.png)
 
 Once the blockchain network information has been added to your MetaMask extension, you will be asked for confirmation to transfer the payment you need to make to TokenGo to create the token.
 The amount you will pay is displayed in the window that opens.
 
-![Image](https://tokengo.app/uploads/10.png)
+![Image](https://tokengo.app/uploads/11.png)
 
 After the payment is confirmed, the following screen greets you.
 In the background, TokenGo checks the payment details and prepares the contract for your token.
 
-![Image](https://tokengo.app/uploads/11.png)
+![Image](https://tokengo.app/uploads/12.png)
 
 After your contract is prepared, the "New Contract" window will open and you will be asked to confirm the contract so that your token ownership and all the supply will be automatically transferred to your wallet.
 
-![Image](https://tokengo.app/uploads/12.png)
+![Image](https://tokengo.app/uploads/13.png)
 
 10 seconds after the contract is confirmed, everything is completed and your new token takes its place on the blockchain network.
 The entire supply of the token will be sent to the wallet address you paid for.
@@ -68,16 +68,16 @@ And now you are the sole owner of this token :)
 After creating your token, we welcome you to the "Transaction Details" page, where you can see the details of all transactions.
 Here you can see all the information of your new token.
 
-![Image](https://tokengo.app/uploads/13.png)
+![Image](https://tokengo.app/uploads/14.png)
 
 By clicking the "Add to MetaMask" button, you will make your token's icon visible in your MetaMask wallet.
 
-![Image](https://tokengo.app/uploads/14.png)
+![Image](https://tokengo.app/uploads/15.png)
 
 The "Verify Source Code" button will gradually help you verify the source code of your token.
 Here you can also find the contract codes of your token.
 
-![Image](https://tokengo.app/uploads/15.png)
+![Image](https://tokengo.app/uploads/16.png)
 
 Yes, everything is that easy and simple.
 That's it to create a new token on Blockchain networks with TokenGo.
