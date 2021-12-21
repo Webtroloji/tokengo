@@ -2,7 +2,7 @@
 
 ## How to Create a New Token with TokenGo?
 
-First go to TokenGo: [https://tokengo.app](https://tokengo.app)
+**First go to TokenGo: [https://tokengo.app](https://tokengo.app)**
 
 Identify the Blockchain network where you want to create your token and select it on the TokenGo homepage.
 
