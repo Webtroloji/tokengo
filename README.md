@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## ERC20, BEP20 Token Generator
 
 You can use the [editor on GitHub](https://github.com/Webtroloji/tokengo/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
